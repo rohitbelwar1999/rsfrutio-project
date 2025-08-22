@@ -1,5 +1,5 @@
 {
-  "name": "rsfrutio-backend",
+  "name": "rsfrutio.ct.ws-backend",
   "version": "1.0.0",
   "description": "RS Frutio Backend Server",
   "main": "server.js",
